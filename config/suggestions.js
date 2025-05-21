@@ -1,0 +1,1 @@
+export default ["Pregunta frecuente 1","Pregunta frecuente 2","Cómo contactar soporte"]
